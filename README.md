@@ -1,2 +1,2 @@
 # Books
-This repository is used to collect all electronic khih released in Phoca projects
+This repository is used to collect all eBooks published in Phoca projects
